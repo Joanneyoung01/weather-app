@@ -49,14 +49,14 @@ body {
 }
 
 .form-container {
-  background-color: #fff;
+  background-color: grey;
   height: 90vh;
   padding-top: 100px;
   padding-left: 50px;
 }
 
 input[type="text"] {
-  background-color: #fff;
+  background-color: grey;
   border: 0;
   border-bottom: solid 1px #f16051;
   width: 30%;
