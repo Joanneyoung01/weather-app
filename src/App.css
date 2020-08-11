@@ -49,19 +49,19 @@ body {
 }
 
 .form-container {
-  background-color: grey;
+  background-color: #FFFFFF;
   height: 90vh;
   padding-top: 100px;
   padding-left: 50px;
 }
 
 input[type="text"] {
-  background-color: grey;
+  background-color: #FFFFFF;
   border: 0;
   border-bottom: solid 1px #f16051;
   width: 30%;
   padding-bottom: 4px;
-  color: #fff !important;
+  color: grey;
   font-weight: lighter;
   letter-spacing: 2px;
   margin-bottom: 30px;
